@@ -1,12 +1,15 @@
 /* 打印样式表 */
-@media print{
+@media print {
     body {
         font-size: 25pt;
     }
+
     p {
         color: #000;
     }
+
     img {
         display: none;
     }
 }
+/
