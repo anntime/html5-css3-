@@ -18,3 +18,5 @@ var people = [person1,person2];
 alert(people);
 alert(people.toString());
 alert(people.toLocaleString());
+ 
+

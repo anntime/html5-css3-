@@ -11,5 +11,8 @@ a:link,
     font-weight: bold;
 }
 p{
+    /* 斜体 */
     font-style: italic;
+    /* 取消斜体 */
+    font-style: normal;
 }
