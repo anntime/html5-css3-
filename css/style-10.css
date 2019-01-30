@@ -1,5 +1,6 @@
 body{
     font-family: Geneva,Tahoma,sans-serif;
+    font-size: 100%;/*16px*/
 }
 h1,h2{
     font-family: "Gill Sans","Gill Sana MT",Calibri,sans-serif;
@@ -9,6 +10,21 @@ em,
 a:link,
 .intro .subhead{
     font-weight: bold;
+}
+h1{
+    font-size: 2.1875em;/*35px*/
+}
+h2{
+    font-size: 28px
+}
+.intro .subhead{
+    font-size: 18px
+}
+.intro p{
+    font-size: 17px
+}
+.project p{
+    font-size: 15px
 }
 p{
     /* 斜体 */
